@@ -1,0 +1,6 @@
+{
+  "name": "MEDIX - Modern Healthcare Platform",
+  "description": "MEDIX is a high-fidelity digital healthcare platform and Medicine Hub featuring Medicine Verification, Health Locker with ABDM Sync, Verified Doctors Directory, AI-summarized health records, and 108 Emergency SOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
